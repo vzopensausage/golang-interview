@@ -23,3 +23,5 @@ A repository for collecting golang interview materials.
 - [x] 10. 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。 : <https://github.com/dairongpeng/algorithm-note>
  
 - [x] 11. 涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全 : <https://github.com/eddycjy/go-developer-roadmap>
+
+- [x] 12. Golang修养之路[刘丹冰AceId] : <https://www.yuque.com/aceld/golang/zhzanb>
