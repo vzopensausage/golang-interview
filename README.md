@@ -25,3 +25,8 @@ A repository for collecting golang interview materials.
 - [x] 11. 涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全 : <https://github.com/eddycjy/go-developer-roadmap>
 
 - [x] 12. Golang修养之路[刘丹冰AceId] : <https://www.yuque.com/aceld/golang/zhzanb>
+
+- [x] 13. Go 程序员面试笔试宝典: <https://golang.design/go-questions/>
+
+## 技术之外
+- [x] 1. 反问面试官: <https://github.com/yifeikong/reverse-interview-zh>
