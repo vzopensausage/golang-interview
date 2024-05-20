@@ -28,5 +28,7 @@ A repository for collecting golang interview materials.
 
 - [x] 13. Go 程序员面试笔试宝典: <https://golang.design/go-questions/>
 
+- [x] 14. 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解: <https://github.com/doocs/leetcode>
+
 ## 技术之外
 - [x] 1. 反问面试官: <https://github.com/yifeikong/reverse-interview-zh>
