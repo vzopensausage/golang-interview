@@ -34,5 +34,7 @@ A repository for collecting golang interview materials.
 
 - [x] 16. Java全栈知识（虽然是Java但是包含常见的数据库及中间件）： <https://pdai.tech/>
 
+- [x] 17. Go语言圣经： <https://www.k8stech.net/gopl-zh/>
+
 ## 技术之外
 - [x] 1. 反问面试官: <https://github.com/yifeikong/reverse-interview-zh>
