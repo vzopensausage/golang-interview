@@ -30,5 +30,9 @@ A repository for collecting golang interview materials.
 
 - [x] 14. 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解: <https://github.com/doocs/leetcode>
 
+- [x] 15. Go语言设计哲学: <https://golang3.eddycjy.com/>
+
+- [x] 16. Java全栈知识（虽然是Java但是包含常见的数据库及中间件）： <https://pdai.tech/>
+
 ## 技术之外
 - [x] 1. 反问面试官: <https://github.com/yifeikong/reverse-interview-zh>
